@@ -3,7 +3,7 @@
 FROM vckyouuu/geezproject:buster
 
 
-RUN git clone -b IndomieUserbot https://github.com/IndomieGorengSatu/IndomieUserbot /root/userbot
+RUN git clone -b IndomieUserbot https://github.com/rezaxd00/ja-ubot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
