@@ -1,6 +1,6 @@
 {
-  "name": "IndomieUserbot",
-  "description": "[IndomieUserbot] USERBOT YANG DIGUNAKAN UNTUK ORANG CAPER DAN MENEBAR PESONA HEKER DI TELEGRAM.",
+  "name": "ja-ubot",
+  "description": "[ja-ubot] USERBOT YANG DIGUNAKAN UNTUK ORANG CAPER DAN MENEBAR PESONA HEKER DI TELEGRAM.",
   "logo": "https://telegra.ph/file/3aeb0f9581ffb876e8bc5.png",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/indomiegorengsatu/IndomieUserbot/IndomieUserbot",
-  "telegram": "https://t.me/IndomieGenetik",
-  "success_url": "https://t.me/mukalokayabab1",
+  "repository": "https://github.com/rezaxd00/ja-ubot/ja-ubot",
+  "telegram": "https://t.me/pmkstdx",
+  "success_url": "https://t.me/mukalokayaajg",
   "stack": "container",
   "env": {
     "API_KEY": {
